@@ -1,0 +1,9 @@
+{
+  "name" : "cp4admin/Client-Onboarding/OPS1664482205523",
+  "type" : "OPS",
+  "description" : "",
+  "mlUrl" : "http://ads-ml-service-service-ibm-ads-ml-service.itzroks-50f01xmwab-ig8fde-6ccd7f378ae819553d37d5f2ee142bd6-0000.us-east.containers.appdomain.cloud/",
+  "authUrl" : "",
+  "instanceId" : "",
+  "apiKey" : null
+}
